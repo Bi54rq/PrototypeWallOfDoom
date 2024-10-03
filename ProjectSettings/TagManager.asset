@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 3
   tags:
   - floor
+  - Environment
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - floor
+  - Environment
   - Water
   - UI
   - 
